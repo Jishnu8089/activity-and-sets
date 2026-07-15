@@ -31,7 +31,7 @@
 
 #
 
-#level 2
+# #level 2
 
 # fruits =[ "Apple" ,"Banana" , "Orange"]
 
@@ -71,6 +71,17 @@
 # print(num)
 
 
-# 
+#  level 4..
+# given ..
+# 1. combine list...
+
+# list1 = [1 ,2 ,3]
+# list2 = [4 ,5 ,6]
+# join=list1 + list2
+# print(join)
+
+# 2. 
+
+
 
 
